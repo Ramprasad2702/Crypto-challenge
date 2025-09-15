@@ -1,0 +1,6 @@
+# Ignore the flag file
+flag.txt
+
+# Ignore Python cache
+__pycache__/
+*.pyc
